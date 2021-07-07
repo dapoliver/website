@@ -14,7 +14,7 @@ organizations:
   url: https://www.kcl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: Part of the Early Psychosis: Interventions & Clinical detection (EPIC) lab and project manager of STEP-PROMOTE. Research interests include developing, validating and implementing models to improve detection and prognosis of individuals at clinical high risk for psychosis and the potential benefits and harms of cannabinoids on clinical outcomes.
+bio: "Part of the Early Psychosis: Interventions & Clinical detection (EPIC) lab and project manager of STEP-PROMOTE. Research interests include developing, validating and implementing models to improve detection and prognosis of individuals at clinical high risk for psychosis and the potential benefits and harms of cannabinoids on clinical outcomes."
 
 # Interests to show in About widget
 interests:
