@@ -1,0 +1,73 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: A systematic review and meta-analysis of mental health service use in people
+  who report psychotic experiences.
+subtitle: ''
+summary: ''
+authors:
+- Vishal Bhavsar
+- Philip McGuire
+- James MacCabe
+- Dominic Oliver
+- Paolo Fusar-Poli
+tags:
+- '"*confounding"'
+- '"*epidemiology"'
+- '"*health services"'
+- '"*self-reported psychotic experiences"'
+- '"*systematic review"'
+- '"Facilities and Services Utilization/*statistics & numerical data"'
+- '"Humans"'
+- '"Mental Health Services/*statistics & numerical data"'
+- '"Patient Acceptance of Health Care/*statistics & numerical data"'
+- '"Psychotic Disorders/*psychology"'
+categories: []
+date: '2018-06-01'
+lastmod: 2021-07-07T16:56:40+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-07-07T15:56:40.275579Z'
+publication_types:
+- '2'
+abstract: 'BACKGROUND: Self-reported psychotic experiences (PEs) are associated with
+  psychopathology of all kinds, not just psychoses. However, systematic reviews on
+  the  relevance of this for health services are unavailable. Furthermore, whether  association
+  with service use is confounded by other psychopathology is unknown, and  is relevant
+  to prevention and treatment. OBJECTIVES: Literature examining  associations between
+  PEs and service use was systematically reviewed. Study quality  and the direction
+  and extent of any associations were assessed, and meta-analysis  conducted. METHODS:
+  Systematic review and meta-analysis was carried out as per  PRISMA guidelines. A
+  search of electronic databases was performed based on free-text  and structured
+  terms. Included studies were evaluated by two raters using a  structured tool and
+  estimates extracted for reporting. RESULTS: Thirteen studies  were returned. We
+  found two prospective studies, and a minority of studies accounted  for concurrent
+  psychopathology, limiting our ability to test our main hypotheses.  Five studies
+  reported associations by different types of service use. Almost all  studies assessed
+  service use by self-report. Meta-analysis suggested that people who  reported PEs
+  were around twice as likely to report service use compared to those who  did not
+  (pooled OR for all included studies: 2.20,95% confidence intervals (95%CI):  1.66,2.91).
+  CONCLUSIONS: There was consistent evidence of association between PEs  and mental
+  health service use at the general population level. However, evidence for  causation
+  was poor due to a limited number of studies. Whether increased service use  in this
+  group is solely attributable to PEs, and therefore whether interventions  aimed
+  at limiting/preventing PEs might be effective, requires studies focusing on  the
+  relationships between PEs, psychopathology and service use.'
+publication: '*Early intervention in psychiatry*'
+doi: 10.1111/eip.12464
+---

@@ -1,0 +1,87 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Longitudinal outcome of attenuated positive symptoms, negative symptoms, functioning
+  and remission in people at clinical high risk for psychosis: a meta-analysis.'
+subtitle: ''
+summary: ''
+authors:
+- Gonzalo Salazar de Pablo
+- Filippo Besana
+- Vincenzo Arienti
+- Ana Catalan
+- Julio Vaquerizo-Serrano
+- Anna Cabras
+- Joana Pereira
+- Livia Soardo
+- Francesco Coronelli
+- Simi Kaur
+- Josette da Silva
+- Dominic Oliver
+- Natalia Petros
+- Carmen Moreno
+- Ana Gonzalez-Pinto
+- Covadonga M. Díaz-Caneja
+- Jae Il Shin
+- Pierluigi Politi
+- Marco Solmi
+- Renato Borgatti
+- Martina Maria Mensi
+- Celso Arango
+- Christoph U. Correll
+- Philip McGuire
+- Paolo Fusar-Poli
+tags: []
+categories: []
+date: '2021-06-01'
+lastmod: 2021-07-07T16:56:41+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-07-07T15:56:41.343878Z'
+publication_types:
+- '2'
+abstract: "BACKGROUND: Little is known about clinical outcomes other than transition\
+  \ to psychosis in people at Clinical High-Risk for psychosis (CHR-P). Our aim was\
+  \ to  comprehensively meta-analytically evaluate for the first time a wide range\
+  \ of  clinical and functional outcomes beyond transition to psychosis in CHR-P \
+  \ individuals. METHODS: PubMed and Web of Science were searched until November 2020\
+  \ in  this PRISMA compliant meta-analysis (PROSPERO:CRD42020206271). Individual\
+  \  longitudinal studies conducted in individuals at CHR-P providing data on at least\
+  \  one of our outcomes of interest were included. We carried out random-effects\
+  \  pairwise meta-analyses, meta-regressions, and assessed publication bias and study\
+  \  quality. Analyses were two-tailed with α=0.05. FINDINGS: 75 prospective studies\
+  \ were  included (n=5,288, age=20.0 years, females=44.5%). Attenuated positive symptoms\
+  \  improved at 12 (Hedges' g=0.753, 95%CI=0.495-1.012) and 24 (Hedges' g=0.836,\
+  \  95%CI=0.463-1.209), but not ≥36 months (Hedges' g=0.315. 95%CI=-0.176-0.806).\
+  \  Negative symptoms improved at 12 (Hedges' g=0.496, 95%CI=0.315-0.678), but not\
+  \ 24  (Hedges' g=0.499, 95%CI=-0.137-1.134) or ≥36 months (Hedges' g=0.033,  95%CI=-0.439-0.505).\
+  \ Depressive symptoms improved at 12 (Hedges' g=0.611,  95%CI=0.441-0.782) and 24\
+  \ (Hedges' g=0.583, 95%CI=0.364-0.803), but not ≥36 months  (Hedges' g=0.512 95%CI=-0.337-1.361).\
+  \ Functioning improved at 12 (Hedges' g=0.711,  95%CI=0.488-0.934), 24 (Hedges'\
+  \ g=0.930, 95%CI=0.553-1.306) and ≥36 months (Hedges'  g=0.392, 95%CI=0.117-0.667).\
+  \ Remission from CHR-P status occurred in 33.4%  (95%CI=22.6-44.1%) at 12 months,\
+  \ 41.4% (95%CI=32.3-50.5%) at 24 months and 42.4%  (95%CI=23.4-61.3%) at ≥36 months.\
+  \ Heterogeneity across the included studies was  significant and ranged from I(2)=53.6%\
+  \ to I(2)=96.9%. The quality of the included  studies (mean±SD) was 4.6±1.1 (range=2-8).\
+  \ INTERPRETATION: CHR-P individuals improve  on symptomatic and functional outcomes\
+  \ over time, but these improvements are not  maintained in the longer term, and\
+  \ less than half fully remit. Prolonged duration of  care may be needed for this\
+  \ patient population to optimize outcomes. FUNDING: None."
+publication: '*EClinicalMedicine*'
+doi: 10.1016/j.eclinm.2021.100909
+---
